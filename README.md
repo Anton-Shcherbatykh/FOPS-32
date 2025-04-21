@@ -1,14 +1,14 @@
 # FOPS-32
 ## Shcherbatykh A.E. 8-03-HW
 ### Задание 1
-'Зарегистрируйте аккаунт на GitHub.'
-Создайте новый отдельный публичный репозиторий. Обязательно поставьте галочку в поле «Initialize this repository with a README».
+1. Зарегистрируйте аккаунт на GitHub.
+2. Создайте новый отдельный публичный репозиторий. Обязательно поставьте галочку в поле «Initialize this repository with a README».
 ![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32/blob/main/images/%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_1_2.jpg)
-Склонируйте репозиторий, используя https протокол git clone ....
+3. Склонируйте репозиторий, используя https протокол git clone ....
 ![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32/blob/main/images/%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_3.jpg)
-'Перейдите в каталог с клоном репозитория.'
-Произведите первоначальную настройку Git, указав своё настоящее имя и email: git config --global user.name и git config --global user.email johndoe@example.com.
-Выполните команду git status и запомните результат.
+4. Перейдите в каталог с клоном репозитория.
+5. Произведите первоначальную настройку Git, указав своё настоящее имя и email: git config --global user.name и git config --global user.email johndoe@example.com.
+6. Выполните команду git status и запомните результат.
 ![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32/blob/main/images/%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_4_5_6.jpg)
 Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
 Ещё раз выполните git status и продолжайте проверять вывод этой команды после каждого следующего шага.
