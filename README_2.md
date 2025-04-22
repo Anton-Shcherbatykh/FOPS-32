@@ -41,8 +41,8 @@ https://github.com/Anton-Shcherbatykh/FOPS-32/commit/30881cabcd71d89117b3b90000b
 ![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_2_4_change.jpg)
    
 
-### ссылка на коммит
-https://github.com/Anton-Shcherbatykh/FOPS-32_2/commit/ad4861ca91aa7124706c7f6f48316e7fd17bf0ae
+### ссылка на коммит (исправлено)
+https://github.com/Anton-Shcherbatykh/FOPS-32_2/commit/e37cc8e63ec56cfff1ff8b4fecb22162eb54603f
 
 ### Задание 3
 
