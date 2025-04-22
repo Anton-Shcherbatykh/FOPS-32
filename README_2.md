@@ -1,5 +1,5 @@
 # FOPS-32
-## Shcherbatykh A.E. 8-03-HW
+## Shcherbatykh A.E. 8-01-HW
 ### Задание 1
 1. Зарегистрируйте аккаунт на GitHub.
 2. Создайте новый отдельный публичный репозиторий. Обязательно поставьте галочку в поле «Initialize this repository with a README».
