@@ -21,6 +21,9 @@
 13. Сделайте git push origin master
 ![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32/blob/main/images/%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_12_13.jpg)
 
+### ссылка на коммит
+[30881cabcd71d89117b3b90000bfd8409df72670](https://github.com/Anton-Shcherbatykh/FOPS-32/commit/30881cabcd71d89117b3b90000bfd8409df72670)
+
 
 ### Задание 2
 1. Создайте файл .gitignore (обратите внимание на точку в начале файла) и проверьте его статус сразу после создания.
